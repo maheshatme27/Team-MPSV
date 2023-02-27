@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1677519484,,"wq"
+|2,0,1677521181,,"wq"
 :q
 |2,0,1677290312,,"q"
 :q!
@@ -76,36 +76,72 @@ $
 |3,0,36,0,1,0,1677256493,"*"
 
 # File marks:
-'0  2  20  ~/new_repo/f1
-|4,48,2,20,1677519484,"~/new_repo/f1"
-'1  8  0  ~/shellscrip
-|4,49,8,0,1677290312,"~/shellscrip"
-'2  1  0  /tmp/crontab.yMwys6
-|4,50,1,0,1677260351,"/tmp/crontab.yMwys6"
-'3  1  0  /tmp/crontab.XmGSzm
-|4,51,1,0,1677260351,"/tmp/crontab.XmGSzm"
-'4  30  0  ~/10Mfile.sh
-|4,52,30,0,1677260351,"~/10Mfile.sh"
-'5  16  34  ~/10Mfile2.sh
-|4,53,16,34,1677259559,"~/10Mfile2.sh"
-'6  1  0  ~/disksize2.sh
-|4,54,1,0,1677259333,"~/disksize2.sh"
-'7  1  0  /tmp/crontab.yYl6rk
-|4,55,1,0,1677256078,"/tmp/crontab.yYl6rk"
-'8  2  93  ~/disksize1.sh
-|4,56,2,93,1677253359,"~/disksize1.sh"
+'0  4  5  ~/f4
+|4,48,4,5,1677521181,"~/f4"
+'1  2  20  ~/new_repo/f1
+|4,49,2,20,1677519484,"~/new_repo/f1"
+'2  8  0  ~/shellscrip
+|4,50,8,0,1677290312,"~/shellscrip"
+'3  1  0  /tmp/crontab.yMwys6
+|4,51,1,0,1677260351,"/tmp/crontab.yMwys6"
+'4  1  0  /tmp/crontab.XmGSzm
+|4,52,1,0,1677260351,"/tmp/crontab.XmGSzm"
+'5  30  0  ~/10Mfile.sh
+|4,53,30,0,1677260351,"~/10Mfile.sh"
+'6  16  34  ~/10Mfile2.sh
+|4,54,16,34,1677259559,"~/10Mfile2.sh"
+'7  1  0  ~/disksize2.sh
+|4,55,1,0,1677259333,"~/disksize2.sh"
+'8  1  0  /tmp/crontab.yYl6rk
+|4,56,1,0,1677256078,"/tmp/crontab.yYl6rk"
 '9  2  93  ~/disksize1.sh
-|4,57,2,93,1677248965,"~/disksize1.sh"
+|4,57,2,93,1677253359,"~/disksize1.sh"
 
 # Jumplist (newest first):
+-'  4  5  ~/f4
+|4,39,4,5,1677521181,"~/f4"
+-'  1  0  ~/f4
+|4,39,1,0,1677521157,"~/f4"
 -'  2  20  ~/new_repo/f1
 |4,39,2,20,1677519484,"~/new_repo/f1"
+-'  2  20  ~/new_repo/f1
+|4,39,2,20,1677519484,"~/new_repo/f1"
+-'  1  0  ~/new_repo/f1
+|4,39,1,0,1677519457,"~/new_repo/f1"
 -'  1  0  ~/new_repo/f1
 |4,39,1,0,1677519457,"~/new_repo/f1"
 -'  8  0  ~/shellscrip
 |4,39,8,0,1677290312,"~/shellscrip"
 -'  8  0  ~/shellscrip
 |4,39,8,0,1677290312,"~/shellscrip"
+-'  8  0  ~/shellscrip
+|4,39,8,0,1677290312,"~/shellscrip"
+-'  8  0  ~/shellscrip
+|4,39,8,0,1677290312,"~/shellscrip"
+-'  1  0  /tmp/crontab.yMwys6
+|4,39,1,0,1677260351,"/tmp/crontab.yMwys6"
+-'  1  0  /tmp/crontab.XmGSzm
+|4,39,1,0,1677260351,"/tmp/crontab.XmGSzm"
+-'  30  0  ~/10Mfile.sh
+|4,39,30,0,1677260351,"~/10Mfile.sh"
+-'  1  0  /tmp/crontab.yMwys6
+|4,39,1,0,1677260351,"/tmp/crontab.yMwys6"
+-'  1  0  /tmp/crontab.XmGSzm
+|4,39,1,0,1677260351,"/tmp/crontab.XmGSzm"
+-'  30  0  ~/10Mfile.sh
+|4,39,30,0,1677260351,"~/10Mfile.sh"
+-'  1  0  /tmp/crontab.yMwys6
+|4,39,1,0,1677260351,"/tmp/crontab.yMwys6"
+-'  1  0  /tmp/crontab.XmGSzm
+|4,39,1,0,1677260351,"/tmp/crontab.XmGSzm"
+-'  30  0  ~/10Mfile.sh
+|4,39,30,0,1677260351,"~/10Mfile.sh"
+-'  1  0  /tmp/crontab.yMwys6
+|4,39,1,0,1677260351,"/tmp/crontab.yMwys6"
+-'  1  0  /tmp/crontab.XmGSzm
+|4,39,1,0,1677260351,"/tmp/crontab.XmGSzm"
+-'  30  0  ~/10Mfile.sh
+|4,39,30,0,1677260351,"~/10Mfile.sh"
 -'  1  0  /tmp/crontab.yMwys6
 |4,39,1,0,1677260351,"/tmp/crontab.yMwys6"
 -'  1  0  /tmp/crontab.XmGSzm
@@ -146,6 +182,54 @@ $
 |4,39,16,34,1677259559,"~/10Mfile2.sh"
 -'  16  34  ~/10Mfile2.sh
 |4,39,16,34,1677259559,"~/10Mfile2.sh"
+-'  16  34  ~/10Mfile2.sh
+|4,39,16,34,1677259559,"~/10Mfile2.sh"
+-'  16  34  ~/10Mfile2.sh
+|4,39,16,34,1677259559,"~/10Mfile2.sh"
+-'  16  34  ~/10Mfile2.sh
+|4,39,16,34,1677259559,"~/10Mfile2.sh"
+-'  16  34  ~/10Mfile2.sh
+|4,39,16,34,1677259559,"~/10Mfile2.sh"
+-'  16  34  ~/10Mfile2.sh
+|4,39,16,34,1677259559,"~/10Mfile2.sh"
+-'  16  34  ~/10Mfile2.sh
+|4,39,16,34,1677259559,"~/10Mfile2.sh"
+-'  16  34  ~/10Mfile2.sh
+|4,39,16,34,1677259559,"~/10Mfile2.sh"
+-'  16  34  ~/10Mfile2.sh
+|4,39,16,34,1677259559,"~/10Mfile2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
+-'  1  0  ~/disksize2.sh
+|4,39,1,0,1677259333,"~/disksize2.sh"
 -'  1  0  ~/disksize2.sh
 |4,39,1,0,1677259333,"~/disksize2.sh"
 -'  1  0  ~/disksize2.sh
@@ -214,92 +298,15 @@ $
 |4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
 -'  1  0  /tmp/crontab.yYl6rk
 |4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  1  0  /tmp/crontab.yYl6rk
-|4,39,1,0,1677256078,"/tmp/crontab.yYl6rk"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
--'  2  93  ~/disksize1.sh
-|4,39,2,93,1677253359,"~/disksize1.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/f4
+	*	1677521179	0
+	"	4	5
+	^	4	6
+	.	4	6
+	+	4	6
 
 > ~/new_repo/f1
 	*	1677519482	0
@@ -435,8 +442,4 @@ $
 
 > ~/10Mfile2
 	*	1677177650	0
-	"	1	0
-
-> /tmp/crontab.e2oWJr
-	*	1677175260	0
 	"	1	0
