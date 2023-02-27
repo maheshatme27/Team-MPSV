@@ -1,0 +1,8 @@
+
+ #!/bin/bash
+
+ echo "i am $1"
+
+ echo "i am aged $2"
+
+ echo "i am from $3"

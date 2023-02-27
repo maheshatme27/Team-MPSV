@@ -1,0 +1,15 @@
+#!/bin/bash
+
+if [ $# -eq 0 ]; then
+        echo "No argument passed"
+elif [ $# -eq 1 ]; then
+        echo "one  argument passed"
+elif [ $# -eq 2 ]; then
+        echo "two arguments passed"
+elif [ $# -eq 3 ]; then
+        echo "three arguments passed"
+else
+
+    echo "more then one argument passed"
+fi
+

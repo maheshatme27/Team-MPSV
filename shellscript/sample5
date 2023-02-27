@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "enter the name"
+read name
+
+if [ -L $name ]; then
+ echo "$name is a MAhi "
+elif [ -d $name ]; then
+ echo "$name is a dir"
+elif [ -f $name ]; then
+ echo "$name is a link"
+else
+ echo "$name does not exist"
+fi

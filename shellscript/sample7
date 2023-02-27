@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# This script will print a message based on the day of the week
+
+day=$(date +%u) # get the day of the week (1-7)
+
+if [ $day -eq 1 ]; then
+  echo "Happy Monday!"
+elif [ $day -eq 7 ]; then
+  echo "Happy Sunday!"
+else
+  echo "Have a nice day!"
+fi

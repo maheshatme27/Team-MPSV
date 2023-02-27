@@ -1,0 +1,19 @@
+#!/bin/bash
+echo "enter the number : "
+read n
+a=0
+b=1
+count=2
+echo "the fibonacci series is"
+echo $a
+echo $b
+while [ $count -le $n ]
+do
+c=`expr $a + $b`
+a=$b
+b=$c
+echo "$c"
+count=`expr $count + 1`
+done
+
+

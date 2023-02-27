@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# This script will print a message based on the number of arguments provided
+
+if [ $# -eq 0 ]; then
+  echo "You did not provide any arguments"
+elif [ $# -eq 1 ]; then
+  echo "You provided one argument"
+elif [ $# -eq 2 ]; then
+  echo "You provided two arguments"
+elif [ $# -eq 3 ]; then
+	echo "You provided three arguments"
+
+else
+  echo "You provided more than three arguments"
+fi

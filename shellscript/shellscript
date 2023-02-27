@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Define the number of terms to be printed
+num_terms=10
+# Initialize the first two terms of the series
+first_term=0
+second_term=1
+
+# Print the first two terms
+echo $first_term
+echo $second_term
+
+# Loop to generate and print the next terms
+i=2
+while [ $i -lt $num_terms ]
+do
+    # Compute the next term
+    next_term=$((first_term + second_term))
+    
+    # Print the next term
+    echo $next_term
+    
+    # Update the values of the first and second terms
+    first_term=$second_term
+    second_term=$next_term
+    
+    # Increment the counter
+    i=$((i+1))
+done
+

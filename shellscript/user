@@ -1,0 +1,13 @@
+# Define the valid username and password
+valid_username = "admin"
+valid_password = "secret"
+
+# Get the input from the user
+username = input("Enter your username: ")
+password = input("Enter your password: ")
+
+# Check if the input is valid
+if username == valid_username and password == valid_password:
+    print("Login successful!")
+else:
+    print("Invalid username or password. Please try again.")

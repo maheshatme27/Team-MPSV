@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Define the valid username and password
+valid_username="admin"
+valid_password="secret"
+
+# Get the input from the user
+read -p "Enter your username: " username
+read -sp "Enter your password: " password
+echo ""
+
+# Check if the input is valid
+if [ "$username" == "$valid_username" ] && [ "$password" == "$valid_password" ]
+then
+    echo "Login successful!"
+else
+    echo "Invalid username or password. Please try again."
+fi
+
